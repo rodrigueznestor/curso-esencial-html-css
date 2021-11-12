@@ -259,7 +259,7 @@ blockquote p {
    color: var(--white20);
 }
 
-@media screen and (min-width: 1366px ) {
+@media screen and (min-width: 1000px ) {
         
     .header {
         position: sticky;
